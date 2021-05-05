@@ -1,0 +1,55 @@
+
+ .header{
+   text-align: center;
+   font-weight: bold;
+   margin-top: 40px;
+   margin-bottom: 40px;
+   font-size: 40px;
+  }
+
+.cardHeader{
+  text-align: center;
+}
+
+.addButton{
+ text-align: right;
+}
+
+.form{
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+.close-btn{
+  margin-left: 10px;
+  font-size: 13px;
+}
+
+.column {
+  float: left;
+}
+
+.left, .right {
+  width: 40%;
+}
+
+.middle {
+  width: 20%;
+}
+
+.accionesBotones{
+text-align: center;
+}
+
+.title{
+  text-align: center;
+}
+
+.info{
+  margin-left: 40px;
+}
+
+.link{
+  text-decoration: none;
+}
