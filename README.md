@@ -36,7 +36,7 @@ _Front-end_
 
 _1. Open a new terminal._
 
-_2. Open the 'ELDAR_
+_2. Open the 'ELDAR'_
 
 _3. Enter on your Terminal: cd frontend_
 
