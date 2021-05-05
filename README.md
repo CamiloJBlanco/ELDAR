@@ -2,8 +2,6 @@
 
 The objective of the project is to develop a system that manages invitations to own birthdays (no login required). For this we will need a view in which the people that you will possibly invite to the birthday are shown and on the right the people you decided to invite (confirmed).
 
-[Deployed with Versel](https://nostalgic-mcnulty-2ec958.netlify.app)
-
 ## Project built using:
 
 - JavaScript
