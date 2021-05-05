@@ -1,16 +1,22 @@
 # ELDAR Java Full Stack
 
-The objective of the challenge is to build a Front-End that interact with Marvel's API.
+The objective of the project is to develop a system that manages invitations to own birthdays (no login required). For this we will need a view in which the people that you will possibly invite to the birthday are shown and on the right the people you decided to invite (confirmed).
 
-[Deployed with Netlify](https://nostalgic-mcnulty-2ec958.netlify.app)
+[Deployed with Versel](https://nostalgic-mcnulty-2ec958.netlify.app)
 
 ## Project built using:
 
 - JavaScript
 - HTML
-- SCSS
+- CSS
 - React
-- Bootstrap
+- Materil UI
+- Java
+- Spring
+- Docket
+- Swagger
+- Hibernate
+- JPA
 
 ## Starting 🚀
 
